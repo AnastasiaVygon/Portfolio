@@ -22,6 +22,8 @@ Project 3
 
 Using Google sheets functionality, I removed duplicates and checked for missing values, filtered and analyzed data and found insights about salaries in Data Science, found correlations between salary amount and company size and type of work and used pivot tables to present findings
 
+[Have a look](https://docs.google.com/presentation/d/1ukELs9P4GuMgu2qn3lJjDeAD4ekQeaMeqOnTxJPkWGk/edit?usp=sharing)
+
 Project 4
 ### A/B testing for a banner campaign 
 I used analytical formulas to implement an A/B test analysis for an online marketplace before launching ad campaign using Excel, SQL and Tableau.
