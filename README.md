@@ -9,7 +9,8 @@ Project 1
 ### Data Visualization project based on Youtube data
 
 Using Tableau, I developed an instrument to plan effective ad campaigns in USA in dependence of a state and content genre needed. I placed it on Udacity for a professional review and received an excellent grade from the Data expert.
-[Publication] (https://drive.google.com/file/d/1KpM_FU4hxzWB2wvbjOA6jqtQxmnA7vy4/view?usp=sharing)
+[Have a look] (https://drive.google.com/file/d/1KpM_FU4hxzWB2wvbjOA6jqtQxmnA7vy4/view?usp=sharing)
+
 Project 2
 ### Mobile games market analysis
 
