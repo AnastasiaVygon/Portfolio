@@ -25,5 +25,5 @@ Using Google sheets functionality, I removed duplicates and checked for missing 
 Project 4
 ### A/B testing for a banner campaign 
 I used analytical formulas to implement an A/B test analysis for an online marketplace before launching ad campaign using Excel, SQL and Tableau.
-
+[Have a look](https://docs.google.com/presentation/d/1IZs7CsVt9YWz_OQxgJixQ12zSTsb5NyY0ttaMfxsALQ/edit?usp=sharing)
 
