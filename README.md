@@ -24,5 +24,4 @@ Project 4
 ### A/B testing for a banner campaign 
 I used analytical formulas to implement an A/B test analysis for an online marketplace before launching ad campaign using Excel, SQL and Tableau.
 
-![image](https://github.com/AnastasiaVygon/Portfolio/assets/141229649/5df898a3-1dc0-4726-b698-dfd891c78f1e)
 
