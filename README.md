@@ -12,19 +12,15 @@ Using Tableau, I developed an instrument to plan effective ad campaigns in USA i
 
 [Have a look](https://drive.google.com/file/d/1KpM_FU4hxzWB2wvbjOA6jqtQxmnA7vy4/view?usp=sharing)
 
+
 Project 2
-### Mobile games market analysis
-
-Via python pandas library I Inspected and cleaned data, performed analysis to determine top highest grossing publishers and found a correlation between mobile games genres and their revenue
-
-Project 3
 ### Data analyst salaries research
 
 Using Google sheets functionality, I removed duplicates and checked for missing values, filtered and analyzed data and found insights about salaries in Data Science, found correlations between salary amount and company size and type of work and used pivot tables to present findings
 
 [Have a look](https://docs.google.com/presentation/d/1ukELs9P4GuMgu2qn3lJjDeAD4ekQeaMeqOnTxJPkWGk/edit?usp=sharing)
 
-Project 4
+Project 3
 ### A/B testing for a banner campaign 
 I used analytical formulas to implement an A/B test analysis for an online marketplace before launching ad campaign using Excel, SQL and Tableau.
 
